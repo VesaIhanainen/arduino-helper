@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "iom168.h": "c",
+        "io.h": "c",
+        "arduino-helper.h": "c"
+    }
+}
